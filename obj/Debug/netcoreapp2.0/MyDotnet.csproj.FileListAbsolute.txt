@@ -1,0 +1,10 @@
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.deps.json
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.runtimeconfig.json
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.runtimeconfig.dev.json
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.dll
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.pdb
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.csproj.CoreCompileInputs.cache
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.AssemblyInfoInputs.cache
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.AssemblyInfo.cs
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.dll
+/Users/macbook/VSCode/Sample/Raghav/Sample/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.pdb
